@@ -1,7 +1,7 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h1 align="center">Hi 👋, I'm Dhiraj Taye</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-taye&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-taye" /> </p>
 
