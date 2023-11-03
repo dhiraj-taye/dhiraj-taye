@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-taye&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-taye" /> </p>
 
-- 🔭 I’m currently working on **Amazon Clone**
-
 - 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://dhirajtaye.netlify.app/](https://dhirajtaye.netlify.app/)
