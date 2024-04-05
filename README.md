@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-taye&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-taye" /> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 Recent graduate with a Bachelor's degree in Computer Science.
 
-- 👨‍💻 All of my projects are available at [https://dhirajtaye.netlify.app/](https://dhirajtaye.netlify.app/)
+- 👨‍💻 Enthusiastic about exploring and analyzing datasets to uncover actionable insights.
 
-- 📫 How to reach me **dhirajtaye01@gmail.com**
+- 📫Proficient in data analysis tools such as Excel, SQL, and Python.
 
-- ⚡ Fun fact **Why did the programmer go broke? Because he used up all his cache!**
+- ⚡Eager to learn and grow in the field of data analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
