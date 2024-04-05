@@ -1,6 +1,6 @@
 ![Header](./github-header.png)
 <h1 align="center">Hi 👋, I'm Dhiraj Taye</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate data analyst with a keen interest in leveraging data-driven insights to solve real-world problems. Here, you'll find a collection of my projects, showcasing my skills in data analysis, visualization, and storytelling.</h3>
+<h3 align="center"> I'm a passionate data analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-taye&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-taye" /> </p>
 
