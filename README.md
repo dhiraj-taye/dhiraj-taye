@@ -6,11 +6,11 @@
 
 - 🌱 Recent graduate with a Bachelor's degree in Computer Science.
 
-- 👨‍💻 Enthusiastic about exploring and analyzing datasets to uncover actionable insights.
+- 👨‍💻 Enthusiastic about building dynamic and responsive web applications using the MERN stack.
 
-- 📫Proficient in data analysis tools such as Excel, SQL, and Python.
+- 📫Proficient in full-stack development tools and technologies, including MongoDB, Express.js, React, and Node.js.
 
-- ⚡Eager to learn and grow in the field of data analytics.
+- ⚡Eager to learn and grow in the field of full-stack development.
 
 <h3 align="left">Contact me here:</h3>
 <p align="left"> dhirajtaye01@gmail.com
