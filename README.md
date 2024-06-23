@@ -1,6 +1,6 @@
 ![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Dhiraj Taye</h1>
-<h3 align="center"> I'm a passionate data analyst</h3>
+<h3 align="center"> I'm a passionate FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-taye&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj-taye" /> </p>
 
