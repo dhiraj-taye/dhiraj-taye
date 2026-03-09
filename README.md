@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./new_banner.png)
 <h1 align="center">Hi 👋, I'm Dhiraj Taye</h1>
 <h3 align="center"> I'm a passionate FullStack Developer</h3>
 
